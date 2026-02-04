@@ -106,12 +106,12 @@ body {
 }
 
 .message {
-    margin: 40px 0;
+    margin: 30px 0;
     padding: 25px;
     background: linear-gradient(to right, #fff0f7, #ffe6f2);
     border-radius: 20px;
     border-left: 8px solid #ff3366;
-    font-size: 1.6em;
+    font-size: 1.2em;
     color: #a61e4d;
     font-style: italic;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
@@ -135,7 +135,7 @@ body {
 .countdown h3 {
     color: #d32f2f;
     margin-bottom: 20px;
-    font-size: 1.8em;
+    font-size: 1.em;
 }
 
 .countdown h3 i {
@@ -161,12 +161,12 @@ body {
 }
 
 .time-value {
-    font-size: 2.5em;
+    font-size: 1.8em;
     font-weight: bold;
 }
 
 .time-label {
-    font-size: 1.2em;
+    font-size: 1.0em;
     margin-top: 5px;
 }
 
