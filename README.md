@@ -13,7 +13,7 @@ Just one simple question that needs your answer...
 
 Made with HTML, CSS, JavaScript, and infinite affection.
 
-Deployed at: [your-vercel-link-here]
+Deployed at: https://be-my-valentine-alpha-two.vercel.app/
 
 ---
 *For my one and only ❤️*
