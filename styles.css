@@ -71,7 +71,7 @@ h1 {
 }
 
 .yes-button {
-    font-size: 1.8em;
+    font-size: 1.2em;
     padding: 15px 40px;
     background: linear-gradient(to right, #ff3366, #ff4d94);
     color: white;
@@ -90,7 +90,7 @@ h1 {
 }
 
 .no-button {
-    font-size: 1.8em;
+    font-size: 1.2em;
     padding: 15px 40px;
     background: #d3d3d3;
     color: #333;
@@ -134,7 +134,13 @@ h1 {
     position: relative;
 }
 
-
+/* Add this at the END of your CSS file: */
+@media (max-width: 480px) {
+    .yes-button, .no-button {
+        font-size: 1.1em !important;
+        padding: 10px 20px !important;
+    }
+}
 
 
 
